@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongodb": "^6.6.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.9.9",
+    "nodemon": "^3.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@githab.com:Jashwanth-rit/local-project.git"
+  },
+  "description": ""
+}
